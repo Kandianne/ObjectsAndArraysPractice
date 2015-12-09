@@ -3,6 +3,7 @@ var baz = 42;
 
 console.log(baz === foo); // --> true
 
+//immutable vs. mutable
 
 var myObject = {};
 var myOtherObject = {};
